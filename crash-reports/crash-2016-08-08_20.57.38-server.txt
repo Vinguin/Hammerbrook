@@ -1,0 +1,176 @@
+---- Minecraft Crash Report ----
+// You're mean.
+
+Time: 8/8/16 8:57 PM
+Description: Watching Server
+
+java.lang.Error
+	at aid.a(SourceFile:244)
+	at aid.e(SourceFile:240)
+	at aid.b(SourceFile:625)
+	at aid.a(SourceFile:2128)
+	at aid.c(SourceFile:2152)
+	at aid.w(SourceFile:2095)
+	at asv.e(SourceFile:1080)
+	at asv.o(SourceFile:1013)
+	at asv.b(SourceFile:842)
+	at ls.j(SourceFile:373)
+	at ls.d(SourceFile:219)
+	at net.minecraft.server.MinecraftServer.D(SourceFile:618)
+	at ld.D(SourceFile:338)
+	at net.minecraft.server.MinecraftServer.C(SourceFile:554)
+	at net.minecraft.server.MinecraftServer.run(SourceFile:458)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server Watchdog
+Stacktrace:
+	at aid.a(SourceFile:244)
+	at aid.e(SourceFile:240)
+	at aid.b(SourceFile:625)
+	at aid.a(SourceFile:2128)
+	at aid.c(SourceFile:2152)
+	at aid.w(SourceFile:2095)
+	at asv.e(SourceFile:1080)
+	at asv.o(SourceFile:1013)
+	at asv.b(SourceFile:842)
+	at ls.j(SourceFile:373)
+	at ls.d(SourceFile:219)
+	at net.minecraft.server.MinecraftServer.D(SourceFile:618)
+	at ld.D(SourceFile:338)
+	at net.minecraft.server.MinecraftServer.C(SourceFile:554)
+
+-- Thread Dump --
+Details:
+	Threads: "File IO Thread" Id=32 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at bbu.c(SourceFile:51)
+	at bbu.run(SourceFile:30)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+"Netty Epoll Server IO #2" Id=20 RUNNABLE
+	at io.netty.channel.epoll.Native.epollWait(Native Method)
+	at io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:194)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:219)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+"Server Watchdog" Id=27 RUNNABLE
+	at sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at sun.management.ThreadImpl.dumpAllThreads(ThreadImpl.java:454)
+	at le.run(SourceFile:43)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+"Query Listener #1" Id=26 RUNNABLE (in native)
+	at java.net.PlainDatagramSocketImpl.receive0(Native Method)
+	-  locked java.net.PlainDatagramSocketImpl@67da039b
+	at java.net.AbstractPlainDatagramSocketImpl.receive(AbstractPlainDatagramSocketImpl.java:143)
+	-  locked java.net.PlainDatagramSocketImpl@67da039b
+	at java.net.DatagramSocket.receive(DatagramSocket.java:812)
+	-  locked java.net.DatagramPacket@691de110
+	-  locked java.net.DatagramSocket@49f93c28
+	at ne.run(SourceFile:268)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+"Netty Epoll Server IO #1" Id=19 RUNNABLE (in native)
+	at io.netty.channel.epoll.Native.epollWait(Native Method)
+	at io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:194)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:219)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+"Netty Epoll Server IO #0" Id=18 RUNNABLE (in native)
+	at io.netty.channel.epoll.Native.epollWait(Native Method)
+	at io.netty.channel.epoll.EpollEventLoop.epollWait(EpollEventLoop.java:194)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:219)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:116)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+"Server console handler" Id=15 RUNNABLE (in native)
+	at java.io.FileInputStream.readBytes(Native Method)
+	at java.io.FileInputStream.read(FileInputStream.java:255)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:284)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+	-  locked java.io.BufferedInputStream@6d2268eb
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+	-  locked java.io.InputStreamReader@2820eb2b
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	...
+
+
+"DestroyJavaVM" Id=14 RUNNABLE
+
+
+"Server thread" Id=12 RUNNABLE
+	at aid.a(SourceFile:244)
+	at aid.e(SourceFile:240)
+	at aid.b(SourceFile:625)
+	at aid.a(SourceFile:2128)
+	at aid.c(SourceFile:2152)
+	at aid.w(SourceFile:2095)
+	at asv.e(SourceFile:1080)
+	at asv.o(SourceFile:1013)
+	...
+
+
+"Server Infinisleeper" Id=11 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at ld$1.run(SourceFile:79)
+
+
+"Snooper Timer" Id=10 TIMED_WAITING on java.util.TaskQueue@1fd1f36f
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@1fd1f36f
+	at java.util.TimerThread.mainLoop(Timer.java:552)
+	at java.util.TimerThread.run(Timer.java:505)
+
+
+"Signal Dispatcher" Id=4 RUNNABLE
+
+
+"Finalizer" Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@194284e4
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@194284e4
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:143)
+	at java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:164)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Finalizer.java:209)
+
+
+"Reference Handler" Id=2 WAITING on java.lang.ref.Reference$Lock@6759c217
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.Reference$Lock@6759c217
+	at java.lang.Object.wait(Object.java:502)
+	at java.lang.ref.Reference.tryHandlePending(Reference.java:191)
+	at java.lang.ref.Reference$ReferenceHandler.run(Reference.java:153)
+
+
+
+Stacktrace:
+	at le.run(SourceFile:59)
+	at java.lang.Thread.run(Thread.java:745)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.10.2
+	Operating System: Linux (amd64) version 4.4.0-31-generic
+	Java Version: 1.8.0_91, Oracle Corporation
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 512488952 bytes (488 MB) / 807403520 bytes (770 MB) up to 1390936064 bytes (1326 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 1, tcache: 1, allocated: 12, tallocated: 94
+	Profiler Position: N/A (disabled)
+	Player Count: 2 / 50; [lu['MrVinhi'/3137, l='hammerbrooklyn', x=-170.07, y=62.15, z=6.66], lu['Cynthek'/154, l='hammerbrooklyn', x=-200.13, y=85.00, z=24.48]]
+	Is Modded: Unknown (can't tell)
+	Type: Dedicated Server (map_server.txt)
