@@ -1,234 +1,46 @@
-[00:00:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2057ms behind, skipping 41 tick(s)
-[00:01:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5571ms behind, skipping 111 tick(s)
-[00:01:01] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 27000 tiles rendered (281.02 msec/tile, 132.85 msec per render)[m
-[00:01:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2115ms behind, skipping 42 tick(s)
-[00:01:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3247ms behind, skipping 64 tick(s)
-[00:02:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2267ms behind, skipping 45 tick(s)
-[00:02:09] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 27100 tiles rendered (282.09 msec/tile, 133.98 msec per render)[m
-[00:02:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2082ms behind, skipping 41 tick(s)
-[00:03:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2942ms behind, skipping 58 tick(s)
-[00:03:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3185ms behind, skipping 63 tick(s)
-[00:03:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3309ms behind, skipping 66 tick(s)
-[00:03:39] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 27200 tiles rendered (283.90 msec/tile, 135.21 msec per render)[m
-[00:03:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3477ms behind, skipping 69 tick(s)
-[00:04:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3126ms behind, skipping 62 tick(s)
-[00:04:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4886ms behind, skipping 97 tick(s)
-[00:04:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2901ms behind, skipping 58 tick(s)
-[00:04:55] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 27300 tiles rendered (285.13 msec/tile, 136.22 msec per render)[m
-[00:04:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3191ms behind, skipping 63 tick(s)
-[00:05:29] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 27400 tiles rendered (285.21 msec/tile, 136.41 msec per render)[m
-[00:06:07] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 27500 tiles rendered (285.49 msec/tile, 136.64 msec per render)[m
-[00:06:34] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 27600 tiles rendered (285.42 msec/tile, 136.80 msec per render)[m
-[00:07:09] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 27700 tiles rendered (285.60 msec/tile, 136.88 msec per render)[m
-[00:07:30] [Server thread/INFO]: MrVinhi[/62.109.94.211:64380] logged in with entity id 2080945 at ([Hammerbrooklyn]-13380.089161831827, 68.0, 2469.0191556622863)
-[00:07:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6948ms behind, skipping 138 tick(s)
-[00:07:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8103ms behind, skipping 162 tick(s)
-[00:08:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3052ms behind, skipping 61 tick(s)
-[00:08:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3927ms behind, skipping 78 tick(s)
-[00:08:23] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 27800 tiles rendered (285.45 msec/tile, 136.91 msec per render)[m
-[00:08:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3688ms behind, skipping 73 tick(s)
-[00:08:45] [Server thread/INFO]: Roccminer[/95.91.227.125:55468] logged in with entity id 2084038 at ([Hammerbrooklyn]-13393.97769553082, 65.0, 2448.0939260354)
-[00:08:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4340ms behind, skipping 86 tick(s)
-[00:09:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3743ms behind, skipping 74 tick(s)
-[00:09:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3905ms behind, skipping 78 tick(s)
-[00:09:38] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 27900 tiles rendered (285.23 msec/tile, 136.82 msec per render)[m
-[00:09:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4022ms behind, skipping 80 tick(s)
-[00:09:58] [Server thread/WARN]: Horse moved wrongly!
-[00:09:58] [Server thread/WARN]: Horse moved wrongly!
-[00:10:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5640ms behind, skipping 112 tick(s)
-[00:10:12] [Server thread/WARN]: Roccminer moved wrongly!
-[00:10:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3543ms behind, skipping 70 tick(s)
-[00:10:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4544ms behind, skipping 90 tick(s)
-[00:10:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3533ms behind, skipping 70 tick(s)
-[00:11:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4153ms behind, skipping 83 tick(s)
-[00:11:21] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 28000 tiles rendered (285.14 msec/tile, 136.78 msec per render)[m
-[00:11:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3617ms behind, skipping 72 tick(s)
-[00:11:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3672ms behind, skipping 73 tick(s)
-[00:11:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3741ms behind, skipping 74 tick(s)
-[00:12:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3793ms behind, skipping 75 tick(s)
-[00:12:26] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 28100 tiles rendered (284.82 msec/tile, 136.69 msec per render)[m
-[00:12:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4059ms behind, skipping 81 tick(s)
-[00:12:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4244ms behind, skipping 84 tick(s)
-[00:13:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4081ms behind, skipping 81 tick(s)
-[00:13:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3994ms behind, skipping 79 tick(s)
-[00:13:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3859ms behind, skipping 77 tick(s)
-[00:13:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4075ms behind, skipping 81 tick(s)
-[00:14:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3741ms behind, skipping 74 tick(s)
-[00:14:22] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 28200 tiles rendered (284.79 msec/tile, 136.61 msec per render)[m
-[00:14:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4010ms behind, skipping 80 tick(s)
-[00:14:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3649ms behind, skipping 72 tick(s)
-[00:15:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4768ms behind, skipping 95 tick(s)
-[00:15:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3390ms behind, skipping 67 tick(s)
-[00:15:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4661ms behind, skipping 93 tick(s)
-[00:15:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3489ms behind, skipping 69 tick(s)
-[00:15:57] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 28300 tiles rendered (284.53 msec/tile, 136.52 msec per render)[m
-[00:16:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4180ms behind, skipping 83 tick(s)
-[00:16:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4021ms behind, skipping 80 tick(s)
-[00:16:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3769ms behind, skipping 75 tick(s)
-[00:17:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4156ms behind, skipping 83 tick(s)
-[00:17:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3659ms behind, skipping 73 tick(s)
-[00:17:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4079ms behind, skipping 81 tick(s)
-[00:17:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4261ms behind, skipping 85 tick(s)
-[00:18:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4205ms behind, skipping 84 tick(s)
-[00:18:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3601ms behind, skipping 72 tick(s)
-[00:18:30] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 28400 tiles rendered (284.43 msec/tile, 136.48 msec per render)[m
-[00:18:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4506ms behind, skipping 90 tick(s)
-[00:19:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4971ms behind, skipping 99 tick(s)
-[00:19:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3857ms behind, skipping 77 tick(s)
-[00:19:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4107ms behind, skipping 82 tick(s)
-[00:19:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4044ms behind, skipping 80 tick(s)
-[00:20:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4001ms behind, skipping 80 tick(s)
-[00:20:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3733ms behind, skipping 74 tick(s)
-[00:20:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4026ms behind, skipping 80 tick(s)
-[00:21:00] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 28500 tiles rendered (284.18 msec/tile, 136.47 msec per render)[m
-[00:21:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3807ms behind, skipping 76 tick(s)
-[00:21:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4726ms behind, skipping 94 tick(s)
-[00:21:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3478ms behind, skipping 69 tick(s)
-[00:21:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4205ms behind, skipping 84 tick(s)
-[00:22:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3937ms behind, skipping 78 tick(s)
-[00:22:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4170ms behind, skipping 83 tick(s)
-[00:22:39] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 28600 tiles rendered (283.82 msec/tile, 136.43 msec per render)[m
-[00:22:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3888ms behind, skipping 77 tick(s)
-[00:23:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4127ms behind, skipping 82 tick(s)
-[00:23:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3849ms behind, skipping 76 tick(s)
-[00:23:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4153ms behind, skipping 83 tick(s)
-[00:24:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3618ms behind, skipping 72 tick(s)
-[00:24:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3897ms behind, skipping 77 tick(s)
-[00:24:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3940ms behind, skipping 78 tick(s)
-[00:24:45] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 28700 tiles rendered (283.63 msec/tile, 136.40 msec per render)[m
-[00:24:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3631ms behind, skipping 72 tick(s)
-[00:25:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4037ms behind, skipping 80 tick(s)
-[00:25:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4137ms behind, skipping 82 tick(s)
-[00:25:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4056ms behind, skipping 81 tick(s)
-[00:25:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3903ms behind, skipping 78 tick(s)
-[00:26:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3907ms behind, skipping 78 tick(s)
-[00:26:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3817ms behind, skipping 76 tick(s)
-[00:26:35] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 28800 tiles rendered (283.60 msec/tile, 136.35 msec per render)[m
-[00:26:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4150ms behind, skipping 83 tick(s)
-[00:27:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5436ms behind, skipping 108 tick(s)
-[00:27:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3808ms behind, skipping 76 tick(s)
-[00:27:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3790ms behind, skipping 75 tick(s)
-[00:27:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4257ms behind, skipping 85 tick(s)
-[00:28:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3797ms behind, skipping 75 tick(s)
-[00:28:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4033ms behind, skipping 80 tick(s)
-[00:28:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3715ms behind, skipping 74 tick(s)
-[00:28:58] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 28900 tiles rendered (283.64 msec/tile, 136.28 msec per render)[m
-[00:29:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3826ms behind, skipping 76 tick(s)
-[00:29:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3956ms behind, skipping 79 tick(s)
-[00:29:36] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 29000 tiles rendered (283.19 msec/tile, 136.18 msec per render)[m
-[00:29:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3650ms behind, skipping 73 tick(s)
-[00:29:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4033ms behind, skipping 80 tick(s)
-[00:30:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3902ms behind, skipping 78 tick(s)
-[00:30:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3865ms behind, skipping 77 tick(s)
-[00:30:29] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 29100 tiles rendered (282.87 msec/tile, 136.14 msec per render)[m
-[00:30:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3945ms behind, skipping 78 tick(s)
-[00:31:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3938ms behind, skipping 78 tick(s)
-[00:31:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3948ms behind, skipping 78 tick(s)
-[00:31:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3443ms behind, skipping 68 tick(s)
-[00:31:49] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 29200 tiles rendered (282.56 msec/tile, 136.05 msec per render)[m
-[00:31:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3867ms behind, skipping 77 tick(s)
-[00:32:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3910ms behind, skipping 78 tick(s)
-[00:32:22] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 29300 tiles rendered (282.11 msec/tile, 135.96 msec per render)[m
-[00:32:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3843ms behind, skipping 76 tick(s)
-[00:32:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4322ms behind, skipping 86 tick(s)
-[00:32:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3530ms behind, skipping 70 tick(s)
-[00:33:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4277ms behind, skipping 85 tick(s)
-[00:33:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3801ms behind, skipping 76 tick(s)
-[00:33:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3900ms behind, skipping 78 tick(s)
-[00:33:52] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 29400 tiles rendered (281.95 msec/tile, 135.89 msec per render)[m
-[00:34:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3506ms behind, skipping 70 tick(s)
-[00:34:22] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 29500 tiles rendered (281.52 msec/tile, 135.79 msec per render)[m
-[00:34:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3819ms behind, skipping 76 tick(s)
-[00:34:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4089ms behind, skipping 81 tick(s)
-[00:35:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4051ms behind, skipping 81 tick(s)
-[00:35:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3776ms behind, skipping 75 tick(s)
-[00:35:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3612ms behind, skipping 72 tick(s)
-[00:35:43] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 29600 tiles rendered (281.28 msec/tile, 135.72 msec per render)[m
-[00:35:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4448ms behind, skipping 88 tick(s)
-[00:36:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3775ms behind, skipping 75 tick(s)
-[00:36:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4005ms behind, skipping 80 tick(s)
-[00:36:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4366ms behind, skipping 87 tick(s)
-[00:36:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3553ms behind, skipping 71 tick(s)
-[00:37:00] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 29700 tiles rendered (280.99 msec/tile, 135.66 msec per render)[m
-[00:37:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3991ms behind, skipping 79 tick(s)
-[00:37:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3718ms behind, skipping 74 tick(s)
-[00:37:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4094ms behind, skipping 81 tick(s)
-[00:38:08] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 29800 tiles rendered (280.57 msec/tile, 135.55 msec per render)[m
-[00:38:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3983ms behind, skipping 79 tick(s)
-[00:38:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4622ms behind, skipping 92 tick(s)
-[00:38:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3928ms behind, skipping 78 tick(s)
-[00:39:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3637ms behind, skipping 72 tick(s)
-[00:39:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3825ms behind, skipping 76 tick(s)
-[00:39:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3761ms behind, skipping 75 tick(s)
-[00:39:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4059ms behind, skipping 81 tick(s)
-[00:40:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4067ms behind, skipping 81 tick(s)
-[00:40:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3680ms behind, skipping 73 tick(s)
-[00:40:34] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 29900 tiles rendered (280.44 msec/tile, 135.54 msec per render)[m
-[00:40:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3936ms behind, skipping 78 tick(s)
-[00:40:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3980ms behind, skipping 79 tick(s)
-[00:41:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3985ms behind, skipping 79 tick(s)
-[00:41:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5028ms behind, skipping 100 tick(s)
-[00:41:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5192ms behind, skipping 103 tick(s)
-[00:42:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3287ms behind, skipping 65 tick(s)
-[00:42:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5200ms behind, skipping 104 tick(s)
-[00:42:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3331ms behind, skipping 66 tick(s)
-[00:42:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4047ms behind, skipping 80 tick(s)
-[00:42:55] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 30000 tiles rendered (280.10 msec/tile, 135.49 msec per render)[m
-[00:43:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4180ms behind, skipping 83 tick(s)
-[00:43:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3921ms behind, skipping 78 tick(s)
-[00:43:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3940ms behind, skipping 78 tick(s)
-[00:44:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4956ms behind, skipping 99 tick(s)
-[00:44:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3280ms behind, skipping 65 tick(s)
-[00:44:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4361ms behind, skipping 87 tick(s)
-[00:44:46] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 30100 tiles rendered (279.93 msec/tile, 135.44 msec per render)[m
-[00:44:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3869ms behind, skipping 77 tick(s)
-[00:45:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5448ms behind, skipping 108 tick(s)
-[00:45:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3281ms behind, skipping 65 tick(s)
-[00:45:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4135ms behind, skipping 82 tick(s)
-[00:45:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3565ms behind, skipping 71 tick(s)
-[00:46:02] [Server thread/INFO]: MrVinhi was slain by Zombie
-[00:46:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4271ms behind, skipping 85 tick(s)
-[00:46:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3911ms behind, skipping 78 tick(s)
-[00:46:37] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 30200 tiles rendered (279.56 msec/tile, 135.35 msec per render)[m
-[00:46:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4727ms behind, skipping 94 tick(s)
-[00:47:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3473ms behind, skipping 69 tick(s)
-[00:47:25] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 30300 tiles rendered (279.22 msec/tile, 135.26 msec per render)[m
-[00:47:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4034ms behind, skipping 80 tick(s)
-[00:47:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3911ms behind, skipping 78 tick(s)
-[00:48:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3800ms behind, skipping 76 tick(s)
-[00:48:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3826ms behind, skipping 76 tick(s)
-[00:48:31] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 30400 tiles rendered (278.96 msec/tile, 135.16 msec per render)[m
-[00:48:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3621ms behind, skipping 72 tick(s)
-[00:48:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5262ms behind, skipping 105 tick(s)
-[00:49:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2602ms behind, skipping 52 tick(s)
-[00:49:15] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 30500 tiles rendered (278.65 msec/tile, 135.17 msec per render)[m
-[00:49:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4121ms behind, skipping 82 tick(s)
-[00:49:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4793ms behind, skipping 95 tick(s)
-[00:50:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3776ms behind, skipping 75 tick(s)
-[00:50:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3869ms behind, skipping 77 tick(s)
-[00:50:23] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 30600 tiles rendered (278.47 msec/tile, 135.08 msec per render)[m
-[00:50:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3866ms behind, skipping 77 tick(s)
-[00:50:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4348ms behind, skipping 86 tick(s)
-[00:51:05] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 30700 tiles rendered (278.00 msec/tile, 134.95 msec per render)[m
-[00:51:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4058ms behind, skipping 81 tick(s)
-[00:51:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3523ms behind, skipping 70 tick(s)
-[00:51:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3977ms behind, skipping 79 tick(s)
-[00:51:57] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 30800 tiles rendered (277.68 msec/tile, 134.87 msec per render)[m
-[00:52:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3896ms behind, skipping 77 tick(s)
-[00:52:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3940ms behind, skipping 78 tick(s)
-[00:52:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3661ms behind, skipping 73 tick(s)
-[00:52:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3818ms behind, skipping 76 tick(s)
-[00:53:05] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 30900 tiles rendered (277.42 msec/tile, 134.80 msec per render)[m
-[00:53:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3464ms behind, skipping 69 tick(s)
-[00:53:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4859ms behind, skipping 97 tick(s)
-[00:53:33] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 31000 tiles rendered (277.08 msec/tile, 134.78 msec per render)[m
-[00:53:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3283ms behind, skipping 65 tick(s)
-[00:53:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3877ms behind, skipping 77 tick(s)
-[00:54:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3889ms behind, skipping 77 tick(s)
-[00:54:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3914ms behind, skipping 78 tick(s)
-[00:54:34] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 31100 tiles rendered (276.85 msec/tile, 134.69 msec per render)[m
-[00:54:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3593ms behind, skipping 71 tick(s)
-[00:54:57] [Dynmap Render Thread/INFO]: Full render of map 'cave' of 'Hammerbrooklyn' in progress - 31200 tiles rendered (276.44 msec/tile, 134.58 msec per render)[m
-[00:55:05] [Server thread/INFO]: Roccminer lost connection: Disconnected
-[00:55:05] [Server thread/INFO]: Roccminer left the game.
-[00:55:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5132ms behind, skipping 102 tick(s)
+[00:56:08] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[00:56:08] [Server thread/INFO]: Loading properties
+[00:56:08] [Server thread/INFO]: Default game type: SURVIVAL
+[00:56:08] [Server thread/INFO]: Generating keypair
+[00:56:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:56:09] [Server thread/INFO]: Using epoll channel type
+[00:56:09] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-67b2424 (MC: 1.10.2) (Implementing API version 1.10.2-R0.1-SNAPSHOT)
+[00:56:09] [Server thread/INFO]: [dynmap] Loading dynmap v2.3-1142
+[00:56:09] [Server thread/INFO]: [dynmap] version=git-Bukkit-67b2424 (MC: 1.10.2)
+[00:56:09] [Server thread/INFO]: [dynmap] Mod Support API available
+[00:56:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:56:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:56:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:56:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:56:09] [Server thread/INFO]: Preparing level "Hammerbrooklyn"
+[00:56:10] [Server thread/INFO]: Preparing start region for level 0 (Seed: -970587539793254814)
+[00:56:16] [Server thread/INFO]: Preparing spawn area: 0%
+[00:56:17] [Server thread/INFO]: Preparing spawn area: 41%
+[00:56:20] [Server thread/INFO]: Preparing spawn area: 81%
+[00:56:21] [Server thread/INFO]: Preparing start region for level 1 (Seed: -970587539793254814)
+[00:56:22] [Server thread/INFO]: Preparing spawn area: 94%
+[00:56:22] [Server thread/INFO]: Preparing start region for level 2 (Seed: -970587539793254814)
+[00:56:22] [Server thread/INFO]: [dynmap] Enabling dynmap v2.3-1142
+[00:56:22] [Server thread/INFO]: [dynmap] Added 1 custom biome mappings
+[00:56:22] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[00:56:22] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[00:56:23] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[00:56:24] [Server thread/INFO]: [dynmap] Loaded 23 shaders.
+[00:56:24] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[00:56:24] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
+[00:56:24] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[00:56:24] [Server thread/INFO]: [dynmap] version 2.3-1142 is enabled - core version 2.3-2074
+[00:56:24] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'Hammerbrooklyn'.
+[00:56:24] [Server thread/INFO]: [dynmap] Loaded 155149 pending tile renders for world 'Hammerbrooklyn'
+[00:56:24] [Server thread/INFO]: [dynmap] Full render for world 'Hammerbrooklyn' restored
+[00:56:24] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'Hammerbrooklyn_nether'.
+[00:56:24] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'Hammerbrooklyn_the_end'.
+[00:56:24] [Server thread/INFO]: [dynmap] Enabled
+[00:56:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:56:24] [Server thread/INFO]: Done (14.871s)! For help, type "help" or "?"
+[00:56:24] [Server thread/INFO]: Starting GS4 status listener
+[00:56:24] [Server thread/INFO]: Starting remote control listener
+[00:56:24] [Query Listener #1/INFO]: Query running on 0.0.0.0:25003
+[00:56:24] [RCON Listener #2/INFO]: RCON running on 0.0.0.0:25002
+[00:56:26] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[00:56:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2222ms behind, skipping 44 tick(s)
